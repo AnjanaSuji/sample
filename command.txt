@@ -1,0 +1,14 @@
+Git clone https://github.com/AnjanaSuji/Sample.git
+
+Git and Github
+
+alternatives : AWS,bitbucket,gitlab
+
+
+git add. >>>> add the files to the staging alternatives 
+              (files is being tracked by git)
+
+git commit -m "message" >>>> to commit the changes in the tracked files
+
+git push origin main >>>> pushing the file to the main branch in
+                          Github repository
